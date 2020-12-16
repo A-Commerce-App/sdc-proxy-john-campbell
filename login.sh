@@ -1,1 +1,1 @@
- ssh -i "/Users/debjohnson/Development/hackreactor/deb-proxy/fec-proxy.pem" ubuntu@ec2-3-15-217-216.us-east-2.compute.amazonaws.com
+ssh -i "sdc-proxy.pem" ubuntu@ec2-18-221-93-67.us-east-2.compute.amazonaws.com
